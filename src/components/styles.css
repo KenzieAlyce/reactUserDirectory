@@ -1,6 +1,6 @@
 .jumbotron {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: maroon !important;
+    background-color: #00664d !important;
     color: white;
   }
   
@@ -15,8 +15,8 @@
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    background-color: #003366;
-    color: white;
+    background-color: #999966;
+    color: black;
   }
   
   .clickable {
